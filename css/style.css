@@ -5,31 +5,35 @@
     box-sizing: border-box;
 }
 
+/* BODY */
 body{
     font-family: 'Roboto', sans-serif;
     background-color: #dce4e7;
 }
 
-.container{
-    
-}
-
+/* HEADER */
 header{
     background-color: white;
     padding-left: 20px;
     padding-top: 10px;
     font-size: 40px;
-    vertical-align: middl;
+    vertical-align: middle;
 }
 
-nav{
+#logo{
+    vertical-align: middle;
+    padding-bottom: 10px;
+}
+
+/* MAIN */
+main{
     background-color: white;
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 30px;
     margin-bottom: ;
     border-top-left-radius: 5px;
-    border-top-right-radius: 3px;
+    border-top-right-radius: 5px;
     padding-top: 15px;
     padding-bottom: 10px;
     padding-left: 40px;
@@ -56,3 +60,4 @@ nav{
     padding-left: 7px;
     padding-right: 7px;
 }
+
