@@ -7,16 +7,30 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: grey;
+    background-color: #dce4e7;
 }
 
 .container{
-    background-color: white;
+    
 }
 
 header{
+    background-color: white;
     padding-left: 20px;
     padding-top: 10px;
     font-size: 40px;
     vertical-align: middl;
+}
+
+nav{
+    background-color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 30px;
+    margin-bottom: ;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 3px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 40px;
 }
