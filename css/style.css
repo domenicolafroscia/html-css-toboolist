@@ -34,3 +34,25 @@ nav{
     padding-bottom: 10px;
     padding-left: 40px;
 }
+
+#button-1{
+    background-color: #47adf1;
+    color: white;
+    border-color: #47adf1;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}   
+
+#button-2{
+    background-color: white;
+    color: grey;
+    border-color: gray;
+    border-radius: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
