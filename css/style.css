@@ -1,4 +1,4 @@
-/*RESET*/
+/* RESET */
 *{
     margin: 0;
     padding: 0;
@@ -28,15 +28,21 @@ header{
 /* MAIN */
 main{
     background-color: white;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 30px;
-    margin-bottom: ;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
-    padding-top: 15px;
-    padding-bottom: 10px;
-    padding-left: 40px;
+}
+
+/* buttons */
+.buttons {
+    padding: 30px;
+    border-bottom: 1px solid #dce4e7;
+}
+
+.content {
+    padding: 10px 30px;
 }
 
 #button-1{
@@ -53,7 +59,7 @@ main{
 #button-2{
     background-color: white;
     color: grey;
-    border-color: gray;
+    border-color: grey;
     border-radius: 5px;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -61,3 +67,110 @@ main{
     padding-right: 7px;
 }
 
+/* ul */
+.li-1{
+    margin-top: 3%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.li-2{
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.check{
+    background-color: white;
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    text-align: center;
+    color: green;
+    margin-right: 10px;
+}
+
+.editorial{
+    background-color: #47adf1;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.li-3-6{
+    margin-left: 20px;
+    margin-top: 15px;
+
+}
+
+.q1-goals{
+    background-color: #9c72e4;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.recruiting{
+    background-color: #64c0a9;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.mobile{
+    background-color: #f29e33;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.website{
+    background-color: #d863a1;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.sales{
+    background-color: #b0c926;
+    display: inline-block;
+    width: 80px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-left: 5px;
+}
+
+.x{
+    background-color: white;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    text-align: center;
+    color: red;
+    margin-right: 10px;
+}
