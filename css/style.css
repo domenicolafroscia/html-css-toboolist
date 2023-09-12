@@ -1,0 +1,22 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: grey;
+}
+
+.container{
+    background-color: white;
+}
+
+header{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 40px;
+    vertical-align: middl;
+}
